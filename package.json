@@ -36,7 +36,7 @@
     "grunt-mozilla-addon-sdk": "~0.3.2",
     "grunt-shell": "^2.1.0",
     "grunt-text-replace": "~0.3.11",
-    "web-ext": "^2.0.0"
+    "web-ext": "^7.2.0"
   },
   "private": true
 }
